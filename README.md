@@ -67,5 +67,6 @@ The main goal of this project is to explore and visualize key insights about Ama
 
 Feel free to connect with me on:
 
-- 📧 Email: [teerthgupta19@gmail.com]
-- 💼 LinkedIn: [Teerth Gupta]
+- Email: teerthgupta19@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/teerth-gupta-52a248243/]
+- Name- Teerth Gupta
